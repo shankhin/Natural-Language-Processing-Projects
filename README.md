@@ -1,3 +1,3 @@
 This repository contains all my personal Natural Language Processing Projects done both as part of my schooling and on my own. Further description of the projects can be found in the reports of the respective projects.
-
-
+# Project 1 - Natural Language Inference
+In this task, we were given a dataset of sentences called the “premise”, and we wanted to predict if another datatset of sentences, the “hypothesis”, either entails or does not entail the corresponding premise. Saying that the premise entails a hypothesis means that, if one read the premise, then one would infer that the hypothesis is true. We were asked to preprocess, vectorize, apply a word embedding, maxpool, concatenate and run the datasets through a simple linear + sigmoid layer for the first part, then run the same dataset through a shallow NN and finally a deeper NN with 4 activation layers.
