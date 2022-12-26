@@ -1,4 +1,4 @@
-This repository contains all my personal Natural Language Processing Projects done both as part of my schooling and on my own. Further description of the projects can be found in the reports of the respective projects.
+This repository contains all my personal Natural Language Processing Projects done both as part of my graduate level **Deep Learning for Natural Language Understanding** course at university. Further description of the projects can be found in the reports of the respective projects.
 # Assignment 1 - Natural Language Inference
 In this assignemnt, we were given a dataset of sentences called the “premise”, and we wanted to predict if another datatset of sentences, the “hypothesis”, either entails or does not entail the corresponding premise. Saying that the premise entails a hypothesis means that, if one read the premise, then one would infer that the hypothesis is true.
 # Assignment 2 - Learning Word Embeddings & Mitigating Gender Bias in Word Embeddings
