@@ -5,5 +5,5 @@ In this assignemnt, we were given a dataset of sentences called the “premise�
 In this assignment, we were asked to implement two models from the word2vec project: Continuous Bag-of-Words (CBOW) and Skip-Gram and then we investigated techniques for measuring and mitigating gender bias in word embeddings.
 # Project 3 - RNNs
 In this assignment, we implemented a character-based generative RNN-based language model. The model will accept a stream of characters and learn to generate a distribution of the next character based on the previous context, over the model’s vocabulary (individual characters instead of words as you may be used to). And then, a similar process was applied to form a Unidirectional as well as Bidirectional LSTM from scratch.
-# Project 4 -
+# Project 4 - Finetuning Transformer Models
 In this assignment, we used the NLI training data (same as Project 1) to finetune a DistilBERT model and predict whether a premise entails a hypothesis or not. And for the next part, following [Lester et al (2021)](https://arxiv.org/abs/2104.08691), we implemented their prompt tuning method (called “soft prompts”). Finally, we implemented a model similar to Dense Passage Retrieval for Open-Domain Question Answering by [Karpukhin et al (2020)](https://arxiv.org/abs/2004.04906).
