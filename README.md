@@ -1,7 +1,7 @@
 This repository contains all my personal Natural Language Processing Projects done both as part of my schooling and on my own. Further description of the projects can be found in the reports of the respective projects.
 # Assignment 1 - Natural Language Inference
 In this assignemnt, we were given a dataset of sentences called the “premise”, and we wanted to predict if another datatset of sentences, the “hypothesis”, either entails or does not entail the corresponding premise. Saying that the premise entails a hypothesis means that, if one read the premise, then one would infer that the hypothesis is true.
-# Assignment 2 - Learning Word Embeddings & Mitigating Gender Bias in Word Emebeddings
+# Assignment 2 - Learning Word Embeddings & Mitigating Gender Bias in Word Embeddings
 In this assignment, we were asked to implement two models from the word2vec project: Continuous Bag-of-Words (CBOW) and Skip-Gram and then we investigated techniques for measuring and mitigating gender bias in word embeddings.
 # Assignment 3 - RNNs
 In this assignment, we implemented a character-based generative RNN-based language model. The model will accept a stream of characters and learn to generate a distribution of the next character based on the previous context, over the model’s vocabulary (individual characters instead of words as you may be used to). And then, a similar process was applied to form a Unidirectional as well as Bidirectional LSTM from scratch.
